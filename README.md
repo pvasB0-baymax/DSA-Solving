@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2540-minimum-common-value) |
+## Math
+|  |
+| ------- |
+| [0492-construct-the-rectangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0492-construct-the-rectangle) |
 <!---LeetCode Topics End-->
