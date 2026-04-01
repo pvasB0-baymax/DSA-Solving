@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Greedy
 |  |
