@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0704-binary-search) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2540-minimum-common-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2540-minimum-common-value) |
