@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2540-minimum-common-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2540-minimum-common-value) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0169-majority-element) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0657-robot-return-to-origin) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Union-Find
 |  |
 | ------- |
