@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3174-clear-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0657-robot-return-to-origin) |
+| [3174-clear-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3174-clear-digits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Union-Find
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0152-maximum-product-subarray) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
