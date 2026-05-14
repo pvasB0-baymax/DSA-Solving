@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2540-minimum-common-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2540-minimum-common-value) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Binary Search
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0189-rotate-array) |
 | [0492-construct-the-rectangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0492-construct-the-rectangle) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
 |  |
 | ------- |
