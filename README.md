@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2540-minimum-common-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2540-minimum-common-value) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0328-odd-even-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3880-minimum-absolute-difference-between-two-values) |
 <!---LeetCode Topics End-->
