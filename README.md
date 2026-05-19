@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0189-rotate-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1021-remove-outermost-parentheses) |
