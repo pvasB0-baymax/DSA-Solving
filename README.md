@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0771-jewels-and-stones) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3880-minimum-absolute-difference-between-two-values) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
