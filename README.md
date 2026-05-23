@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0704-binary-search) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1748-sum-of-unique-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1848-minimum-distance-to-the-target-element) |
