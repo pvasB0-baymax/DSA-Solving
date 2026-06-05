@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0049-group-anagrams) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0152-maximum-product-subarray) |
 ## Stack
