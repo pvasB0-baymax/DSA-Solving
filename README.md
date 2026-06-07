@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0704-binary-search) |
+| [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1748-sum-of-unique-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0189-rotate-array) |
+| [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2540-minimum-common-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2540-minimum-common-value) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0290-word-pattern) |
 | [0657-robot-return-to-origin](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0771-jewels-and-stones) |
+| [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2078-two-furthest-houses-with-different-colors) |
