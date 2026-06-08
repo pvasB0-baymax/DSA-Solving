@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0704-binary-search) |
 | [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0611-valid-triangle-number](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0611-valid-triangle-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0189-rotate-array) |
+| [0611-valid-triangle-number](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0611-valid-triangle-number) |
 | [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0611-valid-triangle-number) |
 | [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
