@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3689-maximum-total-subarray-value-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
 |  |
 | ------- |
