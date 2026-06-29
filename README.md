@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3174-clear-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3174-clear-digits) |
 | [3856-trim-trailing-vowels](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3856-trim-trailing-vowels) |
