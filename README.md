@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0189-rotate-array) |
 | [0492-construct-the-rectangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0492-construct-the-rectangle) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3663-find-the-least-frequent-digit) |
