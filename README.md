@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0073-set-matrix-zeroes) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0347-top-k-frequent-elements) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Bucket Sort
 |  |
 | ------- |
