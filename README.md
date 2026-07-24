@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0169-majority-element) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0611-valid-triangle-number](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0611-valid-triangle-number) |
 | [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
