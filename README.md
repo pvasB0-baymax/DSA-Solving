@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3536-maximum-product-of-two-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3663-find-the-least-frequent-digit](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
