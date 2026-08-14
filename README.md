@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1748-sum-of-unique-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
