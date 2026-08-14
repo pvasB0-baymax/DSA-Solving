@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2540-minimum-common-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2540-minimum-common-value) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3663-find-the-least-frequent-digit](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3731-find-missing-elements) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3174-clear-digits) |
 | [3856-trim-trailing-vowels](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3884-first-matching-character-from-both-ends) |
