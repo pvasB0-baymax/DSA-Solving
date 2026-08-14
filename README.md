@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0492-construct-the-rectangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -327,5 +328,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0292-nim-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
