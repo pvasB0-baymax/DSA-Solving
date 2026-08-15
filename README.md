@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3788-maximum-score-of-a-split](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3788-maximum-score-of-a-split) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
 | ------- |
