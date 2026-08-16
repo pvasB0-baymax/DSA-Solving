@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0169-majority-element) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0992-subarrays-with-k-different-integers) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0290-word-pattern) |
