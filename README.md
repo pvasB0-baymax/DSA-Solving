@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3788-maximum-score-of-a-split](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3788-maximum-score-of-a-split) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3663-find-the-least-frequent-digit](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3731-find-missing-elements) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3941-password-strength](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3941-password-strength) |
 ## Two Pointers
