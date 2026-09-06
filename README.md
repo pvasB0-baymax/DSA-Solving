@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3638-maximum-balanced-shipments](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3638-maximum-balanced-shipments) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3638-maximum-balanced-shipments](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0152-maximum-product-subarray) |
+| [3638-maximum-balanced-shipments](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3638-maximum-balanced-shipments) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3174-clear-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3174-clear-digits) |
+| [3638-maximum-balanced-shipments](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3638-maximum-balanced-shipments) |
 ## Linked List
 |  |
 | ------- |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3638-maximum-balanced-shipments](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3638-maximum-balanced-shipments) |
 ## Game Theory
 |  |
 | ------- |
