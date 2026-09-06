@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2562-find-the-array-concatenation-value) |
 | [2574-left-and-right-sum-differences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2574-left-and-right-sum-differences) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2540-minimum-common-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2540-minimum-common-value) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2947-count-beautiful-substrings-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
