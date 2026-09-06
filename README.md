@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3663-find-the-least-frequent-digit](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0152-maximum-product-subarray) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Trie
 |  |
