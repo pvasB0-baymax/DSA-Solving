@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3638-maximum-balanced-shipments](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3638-maximum-balanced-shipments) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3663-find-the-least-frequent-digit) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3536-maximum-product-of-two-digits) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3731-find-missing-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3536-maximum-product-of-two-digits) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3663-find-the-least-frequent-digit](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3638-maximum-balanced-shipments](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0292-nim-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Brainteaser
 |  |
 | ------- |
