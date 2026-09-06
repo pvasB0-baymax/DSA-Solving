@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2947-count-beautiful-substrings-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3663-find-the-least-frequent-digit](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3731-find-missing-elements) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## String
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2947-count-beautiful-substrings-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2947-count-beautiful-substrings-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3174-clear-digits) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3856-trim-trailing-vowels](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3884-first-matching-character-from-both-ends) |
 | [3941-password-strength](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3941-password-strength) |
